@@ -5,6 +5,10 @@
 An applied learning and business analysis project designed to explore how SaaS metrics connect to commercial performance and management decision-making.
 
 The project uses fictional B2B SaaS companies and business cases to move beyond individual metrics and analyse how growth, retention, sales performance and unit economics interact.
+## Application Preview
+
+![SaaS Compass — Commercial Performance Portfolio](saas-compass-portfolio.png)
+
 
 ## What the project explores
 
